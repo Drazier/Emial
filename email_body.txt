@@ -1,0 +1,14 @@
+Dear <b>{name}</b>,
+
+<p>I am a <b>Pre-final year</b> student pursuing a <b>dual degree in Economics and Electrical Engineering at BITS Pilani</b>, and I am writing to express my strong interest in joining <b>{company}</b> as a <b>Generative AI Intern</b>, preferably focusing on the development of <b>AI Agents</b>.</p>
+
+<p>I have a solid foundation in <b>Neural Networks and Generative AI</b>, with a strong grasp of core concepts. <b>My previous internship involved working with Generative AI and Django</b>. My hands-on experience includes <b>working with LLMs</b> and deploying them in <b>Retrieval-Augmented Generation (RAG) pipelines</b>. Additionally, I have worked on complex <b>image and video processing</b> workflows using <b>OpenCV</b>, I am highly <b>proficient in Django and Langchain</b> and have covered <b>basics of LangGraph</b> which has equipped me with the backend and deployment skills essential for production-ready AI systems.</p>
+
+<p>I believe this blend of foundational knowledge and practical experience would allow me to contribute meaningfully to your team.</p>
+
+<p>Thank you for considering my application. I’ve attached my <b>resume</b> for your review and would welcome the opportunity to discuss how my background aligns with your team’s needs. <b>If you’re not the appropriate person to contact regarding recruitment or team hiring, I’d be grateful if you could take a moment to forward this to someone who is.</b></p>
+
+<p>Best regards,<br>
+<b>Tapas Sahu</b><br>
++91 7470934327<br>
+<a href="mailto:tps039@gmail.com">tps039@gmail.com</a></p>
